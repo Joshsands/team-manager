@@ -10,7 +10,7 @@ const db = mysql.createConnection(
       password: "*Km#a+*)8uuqG}3",
       database: "team_db",
     },
-    console.log("Connected to the team database.")
+    // console.log("Connected to the team database.")
   );
 
 module.exports = db;
