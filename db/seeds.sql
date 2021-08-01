@@ -14,3 +14,15 @@ VALUES
 ("Acountant", 125000, 3),
 ("Legal Team Lead", 250000, 4),
 ("Lawyer", 190000, 4);
+
+INSERT INTO employees (first_name, last_name, role_id, manager_id)
+VALUES
+("John", "Doe", 1, 3),
+("Mike", "Chan", 2, 1),
+("Ashley", "Rodriguez", 3, null),
+("Kevin", "Tupik", 4, 3),
+("Malia", "Brown", 5, null),
+("Sarah", "Lourd", 6, null),
+("Tom", "Allen", 7, 6),
+("Christian", "Eckenrode", 3, 2),
+("Tammer", "Galal", 4, 4);
