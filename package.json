@@ -1,0 +1,25 @@
+{
+  "name": "team-manager",
+  "version": "1.0.0",
+  "description": "Create, read, update and delete employee database info.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshsands/team-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshsands/team-manager/issues"
+  },
+  "homepage": "https://github.com/Joshsands/team-manager#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.2.5"
+  }
+}
