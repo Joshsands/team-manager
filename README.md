@@ -26,7 +26,7 @@
 
 ## Installation Instructions
 
-* Pull the Github repository to your local drive, open it in an IDE and enter "npm install" in the terminal to install the dependent modules from the package.json file in the root folder. Then enter NPM start in the terminal browse through the various menus to edit employee data.
+* Pull the Github repository to your local drive, open it in an IDE and enter "npm install" in the terminal to install the dependent modules from the package.json file in the root folder. Then enter NPM start in the terminal and browse through the various menus to edit employee data.
 
 ## Usage Information
 
