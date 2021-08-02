@@ -18,7 +18,7 @@
 
 ![Team Manager Snapshot](./assets/snapshot.png)
 
-[CLICK HERE FOR THE FULL DEMONSTRATION VIDEO!](./assets/snapshot.png)
+[CLICK HERE FOR THE FULL DEMONSTRATION VIDEO!](https://youtu.be/7_p6tv0zpg0)
 
 ## Project Description
 
@@ -26,7 +26,9 @@
 
 ## Installation Instructions
 
-* Pull the Github repository to your local drive, open it in an IDE and enter "npm install" in the terminal to install the dependent modules from the package.json file in the root folder. Then enter NPM start in the terminal and browse through the various menus to edit employee data.
+* Pull the Github repository to your local drive, open it in an IDE and enter "npm install" in the terminal to install the dependent modules from the package.json file in the root folder.
+* Open the MySQL shell and create the database and tables by sourcing the sql files in the db folder.
+* Then enter NPM start in the terminal and browse through the various menus to edit employee data.
 
 ## Usage Information
 
